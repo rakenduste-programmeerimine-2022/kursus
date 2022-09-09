@@ -26,7 +26,7 @@ Alati tuleb koodi commitida main branchi läbi pull requestide ehk otse main bra
 
 ### Konsultatsioonid
 
-Probleemide ilmnemisel võib kirjutada #general-problems kanalisse ja kõik on teretulnud abistama üksteist, et õppida ka aru saada erinevatest probleemidest ja nende tekkepõhjustest.
+Probleemide ilmnemisel võib kirjutada #troubleshooting kanalisse ja kõik on teretulnud abistama üksteist, et õppida ka aru saada erinevatest probleemidest ja nende tekkepõhjustest.
 
 ### Google Meets:
 
