@@ -30,7 +30,7 @@ Probleemide ilmnemisel võib kirjutada #troubleshooting kanalisse ja kõik on te
 
 ### Google Meets:
 
-- Reedeti 08:15-11:45 - https://meet.google.com/cqd-izdh-ifg
+- Reedeti 08:15-11:45 - https://zoom.us/j/96590969763 (parool ÕIS-i kaudu)
 
 ### Muu info: 
 
