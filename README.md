@@ -38,6 +38,6 @@ Kursuse WIKI: https://github.com/rakenduste-programmeerimine-2022/kursus/wiki
 
 Discord: https://discord.gg/f7m2cNMR
 
-Loengute salvestused: (lisamisel)
+Loengute salvestused: tunnitööde all, parool saadetud ÕIS-i kaudu.
 
 Kodused tööd: https://github.com/rakenduste-programmeerimine-2022/kursus/wiki/Homework
