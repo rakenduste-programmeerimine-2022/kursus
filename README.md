@@ -15,6 +15,7 @@
 6. Pärast issuede paika panemist planeerite `sprindid` (algavad esmaspäevaga ja lõpeb järgmise esmaspäevaga. Ehk luua vastavad `milestone`-d sprintidele. Seejärel on aega kuni põhieksamini, kus toimub projekti esitamine. Kui põhieksamiks ei jõua, toimub esitamine järeleksamil.
 7. Iga sprindi (nädala) jooksul peab iga liige tegema enda projekti discordi kanalis vähemalt 2 standupi kirja panekut (mida eelmine kord tegid, mida hakkad täna tegema ja mis takistused on). **See tähendab, et iga nädal peab olema näha 2 standupi.** 
 8. Tuleb teha teineteisele **code review**-sid, ei pea olema põhjalikud. 
+9. Kui projekti esitamisel tekivad ilmselged lüngad ja kahtlus, et esimesel kursuse poolel ei ole läbitud tunni- ja kodutööd, siis kontrollin tunni- ja koduseid töid, mille viimane arvesse võtmise kuupäev on 31.10.2022. 
 
 #### Projektis peavad olema olemas
 Kui te pole varem täpsustanud teisiti ja pole minupoolset nõusolekut selle kohta saanud, siis projektis peab kajastuma:
