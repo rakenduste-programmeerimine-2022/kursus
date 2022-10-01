@@ -1,11 +1,15 @@
 # IFI6229.DT Rakenduste programmeerimise kursus
 
-#### Selleks, et läbida projekti osa ainest:
+#### Selleks, et läbida aine, on vaja sooritada projekt.
+
+Projektis on 2 inimest, välja arvatud kui suudate näidata, et projekt on piisavalt suur, et on vaja ka kolmandat inimest.
 
 * On vaja esitada enda projekti aktsepteerimiseks. 
 
 
 ‼️ Projekti aktsepteerimiseks esitamise (viimane) kuupäev: 21.10.2022 (tunni ajal) ‼️
+
+‼️ Pärast seda kuupäeva algab projekti teostamine, ehk hilisemaid projekti alustamisi ei arvesta ja aine on automaatselt mitte arvestatud ‼️
 
 1. Pärast positiivse vastuse saamist minu poolt on teil on vaja ühe inimese poolt kirjutada Discordis `#project` kanalis tutvustus enda projekti kohta - koos projekti nimega projekti lühikirjeldus teistele tutvustamiseks. **Lisaks märkida ka projekti autorite täisnimed.**
 2. Pärast seda loon teile repositooriumi `rakenduste-programmeerimine-2022` alla, kus teil hakkab toimuma projekti aktiivne arendus.
