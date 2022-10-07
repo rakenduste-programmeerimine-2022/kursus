@@ -4,7 +4,9 @@
 
 Projektis on 2 inimest, välja arvatud kui suudate näidata, et projekt on piisavalt suur, et on vaja ka kolmandat inimest.
 
-* On vaja esitada enda projekti aktsepteerimiseks. 
+* On vaja esitada enda projekti idee aktsepteerimiseks. Ehk 21.10.2022 kuupäev on idee esitamine, pärast seda algab aktiivne arendus.
+* Pärast vahenädalat võib meil tõenäoliselt olla 1 reedene tund veel ehk 04.11 (täpsustan üle 21.10 tunnis), aga selle nädala jooksul saate juba alustada oma projektiga ehk pärast 21.10 või alates 31.10)
+* Eksam (projekti esitlus kõikide liikmete poolt) on 16.12.2022 ehk viimasel kontakttunnil, järeleksam on 20.01.2023. Aktiivne projekti arendus võib toimuda kuni eksamini.
 
 
 ‼️ Projekti aktsepteerimiseks esitamise (viimane) kuupäev: 21.10.2022 (tunni ajal) ‼️
