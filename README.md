@@ -26,9 +26,9 @@ Projektis on 2 inimest, välja arvatud kui suudate näidata, et projekt on piisa
 #### Projektis peavad olema olemas
 Kui te pole varem täpsustanud teisiti ja pole minupoolset nõusolekut selle kohta saanud, siis projektis peab kajastuma:
 1. Frontendina kasutada `CRA`-d (koos `MUI`-ga). Lisaks `testid` ja `PropTypes` olemasolu.
-2. Backendina `Node.js`, `express` ja `MongoDB` andmebaasi. Kasutada on vaj `dotenv`, `mongoose`, `bcrypt`, `jsonwebtoken`.
+2. Backendina `Node.js`, `express` ja `MongoDB` andmebaasi. Kasutada on vaja `nodemon`, `dotenv`, `mongoose`, `bcrypt`, `jsonwebtoken`, `express-validator`.
 3. FE struktuurina vaja eraldi hoida `components` ja `pages` kaustades.
-4. BE struktuurina vaja eraldi hoida `controllers`, `models`, `routes` ja võib lisada võimalikke `middleware`, `helper` funktsioon kaustasid.
+4. BE struktuurina vaja eraldi hoida `controllers`, `models`, `routes` ja võib lisada võimalikke `middleware`, `helper`/`utility` funktsioon kaustasid.
 5. _... veel täiendamisel_
 
 ## Workflow
