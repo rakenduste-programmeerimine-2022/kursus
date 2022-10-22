@@ -62,9 +62,15 @@ Alati tuleb koodi commitida main branchi läbi pull requestide ehk otse main bra
 4. Teie projektikaaslane peab vastu võtma teie PR-i (ise vastu ei tohi võtta) ja soovitavalt ```Rebase and merge```. [Rohkem infot siit](https://rietta.com/blog/github-merge-types/)
 5. Võimalikud konfliktid on vaja ka lahendada, et mis kood jääb peale. 
 
+#### Main branchile on pandud protection järgmiste nõuetega:
+- Require approvals - 1
+- Require review from Code Owners 
+- Require approval from someone other than the last pusher 
+- Require conversation resolution before merging
+
 ‼️ Tehke väikseid (kompaktseid) committe ja tihemini, et saan pärast commit historyst üle vaadata ja mitte mõistust kaotada, et kust kohast mingisugused muudatused on koodi sisse tulnud 🤪
 
-### Konsultatsioonid
+## Konsultatsioonid
 
 Iga reede pärast vahenädalat olen saadaval 08.15-11.45 video vahendusel, kuid kui on küsimusi varem enne seda, soovitan juba eelnevalt kirjutada `#troubleshooting` kanalisse.
 
@@ -75,7 +81,7 @@ Probleemide ilmnemisel võib kirjutada `#troubleshooting` kanalisse ja kõik on 
 
 - Reedeti 08:15-11:45 - https://zoom.us/j/96590969763 (parool ÕIS-i kaudu)
 
-### Muu info: 
+## Muu info: 
 
 Kursuse WIKI: https://github.com/rakenduste-programmeerimine-2022/kursus/wiki
 
