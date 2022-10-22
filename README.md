@@ -4,7 +4,7 @@
 
 1. Discordis panna `Rakenduste programmeerimine 2022` kanalis panna enda päris täisnimi. Teie projekti kanal on loodud, mitte kirjutada teiste projekti kanalites - mõeldud ainult teie projekti dokumenteerimiseks ja teistel võimalus vaadata teiste progressi jooksvalt. 
 2. Panna kirja README faili (reposse) projekti nimi, lühikirjeldus ja kõik autorid. 
-3. Panna kirja kõik funktsionaalsused, mis teil tulevad projekti.
+3. Panna kirja README faili kõik funktsionaalsused, mis teil tulevad projekti.
 4. ‼️ Luua vähemalt 4 nädalast sprinti (milestone) ja panna end date-id paika.
 5. Vaja on teha `low-fidelity` wiferame ja laadida üles `/wireframes` kausta repos. See on esialgne planeering teie projektist ja kõikidest lehtedest, mis teil tulevad.
 6. Seejärel luua juba loodud funktsionaalsuste põhjal võimalikult eraldiseisvad `issue` -d. Eraldi luua frontendi/backendi/üldise setupiga seotud taskid ‼️ __Iga sprindi alla vähemalt 8 issuet__
