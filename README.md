@@ -77,7 +77,7 @@ Iga reede pärast vahenädalat olen saadaval 08.15-11.45 video vahendusel, kuid 
 Probleemide ilmnemisel võib kirjutada `#troubleshooting` kanalisse ja kõik on teretulnud abistama üksteist, et õppida ka aru saada erinevatest probleemidest ja nende tekkepõhjustest.
 
 
-### Google Meets:
+### Zoom:
 
 - Reedeti 08:15-11:45 - https://zoom.us/j/96590969763 (parool ÕIS-i kaudu)
 
